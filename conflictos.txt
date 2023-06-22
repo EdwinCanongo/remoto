@@ -1,1 +1,2 @@
 Este es un contenido para hacer pruebas.
+Clase 2 de las ramas para aprender los conflictos 
